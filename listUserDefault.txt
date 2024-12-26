@@ -1,0 +1,8 @@
+//them tai khoan mac dinh de dang nhap he thong
+	public UserDao() {
+		ls.add(new User("admin", "12345", true));
+		ls.add(new User("22680401", "2004", true));
+		ls.add(new User("A1", "12345", false));
+		ls.add(new User("A2", "12345", false));
+		ls.add(new User("A3", "12345", false));
+}
