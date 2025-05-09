@@ -24,7 +24,7 @@
 2. Dùng lệnh `cd` để điều hướng đến thư mục chứa file `.jar`.
 3. Chạy chương trình với lệnh:
    ```bash
-   java -jar tenFile.jar
+   java -jar QuanLiHocVuIUHver5.0.jar
 
 ## Chạy bằng Eclipse
 -   Import toàn bộ project vào Eclipse.
