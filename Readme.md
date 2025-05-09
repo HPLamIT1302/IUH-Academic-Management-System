@@ -1,4 +1,4 @@
-# Ứng dụng Quản Lý Học Vụ - Java Swing
+## Ứng dụng Quản Lý Học Vụ - Java Swing
 
 ## 📝 Giới thiệu
 Ứng dụng được phát triển bằng **Java Swing**, sử dụng **file `.txt` làm cơ sở dữ liệu**, với giao diện trực quan và thân thiện với người dùng. Dự án áp dụng **nguyên tắc Lập trình Hướng Đối Tượng (OOP)** và được **đóng gói dưới dạng file `.jar`** để chạy độc lập.
